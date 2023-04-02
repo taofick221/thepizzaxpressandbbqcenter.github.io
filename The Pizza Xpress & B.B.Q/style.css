@@ -113,6 +113,7 @@ header .icons #menu{
 .home .home-slider  .slide .content{
     text-align: center;
     padding-left: 9rem;
+/*      padding-left: 9rem; */
 }
 .home .home-slider  .slide .content h3{
     color: var(--light-color);
